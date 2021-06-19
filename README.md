@@ -1,0 +1,2 @@
+# Light-Monitoring-System
+An App Controlled Project on Smart Selection of Most Power Efficient Combination of light devices present in a room at the place of operation based on LDR sensor detection and requirement of user (different modes like sleep, study, etc.), optimizing solution by Mathematics of Power Optimization, Project Done By Team of 4, Contributors: Satyam Pandey, Rishi Singh, Vamshi, Harshavardhan
